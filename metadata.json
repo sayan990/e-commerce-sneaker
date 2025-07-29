@@ -1,0 +1,5 @@
+{
+  "name": "Mugnificent - Custom Mugs Demo",
+  "description": "A visually appealing e-commerce demo application for a fictional personalized mug shop. It features a landing page with a hero carousel, a featured products section, and a comprehensive footer, all built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
