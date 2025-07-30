@@ -1,13 +1,36 @@
-# Run and deploy your AI Studio app
+# Sneaker Store - E-commerce Demo
 
-This contains everything you need to run your app locally.
+Una aplicación de e-commerce moderna para una tienda de zapatillas, construida con React, TypeScript y Tailwind CSS.
 
-## Run Locally
+## Características
 
-**Prerequisites:**  Node.js
+- 🛍️ **Catálogo de productos** con carrusel interactivo
+- 🎨 **Diseño responsive** con Tailwind CSS
+- ⚡ **Rendimiento optimizado** con React.memo
+- 🎯 **Componentes reutilizables** y hooks personalizados
+- 📱 **Interfaz moderna** y accesible
 
+## Tecnologías
 
-1. Install dependencies:
-   `npm install`
-2. Run the app:
-   `npm run dev`
+- **React 19** - Biblioteca de UI
+- **TypeScript** - Tipado estático
+- **Tailwind CSS** - Framework de CSS
+- **Vite** - Build tool y dev server
+
+## Instalación
+
+1. Clona el repositorio
+2. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+3. Ejecuta el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
+
+## Scripts disponibles
+
+- `npm run dev` - Servidor de desarrollo
+- `npm run build` - Build para producción
+- `npm run preview` - Preview del build
